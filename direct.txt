@@ -2,3 +2,4 @@ DOMAIN-SUFFIX,sparkingcd.com
 DOMAIN-SUFFIX,cdrcbank.com
 DOMAIN-SUFFIX,cdjtzhtc.com
 DOMAIN,casa.lyonyu.dev
+DOMAIN-SUFFIX,*.local.lyonyu.me
