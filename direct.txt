@@ -5,3 +5,6 @@ DOMAIN,casa.lyonyu.dev
 
 # Lyon Dev Domains
 DOMAIN,elixir-local.lyonyu.me
+
+# Lyon Home Domains
+DOMAIN-SUFFIX,home.lyonyu.me
