@@ -33,7 +33,12 @@ async function uploadFile(localPath: string, ossPath: string, filename: string) 
     const lines = content.split('\n');
 
     // 将第一行替换为 #!MANAGED-CONFIG ${OSS_URL} interval=86400
-    lines[0] = `#!MANAGED-CONFIG ${ossUrl} interval=86400`;
+    if (lines[0].includes('#!MANAGED-CONFIG')) {
+      lines[0] = `#!MANAGED-CONFIG ${ossUrl} interval=21600`;
+    } else {
+      lines[0] = `#SUBSCRIBED ${ossUrl} interval=21600`;
+    }
+
     const modifiedContent = lines.join('\n');
 
     // 创建临时文件
