@@ -1,6 +1,8 @@
 DOMAIN-SUFFIX,sparkingcd.com
 DOMAIN-SUFFIX,cdrcbank.com
 DOMAIN-SUFFIX,cdjtzhtc.com
+DOMAIN-SUFFIX,duoyi.com
+DOMAIN-SUFFIX,2980.com
 DOMAIN,casa.lyonyu.dev
 
 # Lyon Dev Domains
