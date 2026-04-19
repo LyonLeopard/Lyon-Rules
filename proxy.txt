@@ -1,2 +1,5 @@
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN,fontfiles.googleapis.com
+DOMAIN,fonts.googleapis.com
+DOMAIN,fonts.gstatic.com
