@@ -4,3 +4,4 @@ DOMAIN,fontfiles.googleapis.com
 DOMAIN,fonts.googleapis.com
 DOMAIN,fonts.gstatic.com
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,adobe.com
